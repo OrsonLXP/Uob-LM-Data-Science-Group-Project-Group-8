@@ -1,0 +1,93 @@
+LAD23CD,LAD23NM,ITL321CD,ITL321NM
+E06000005,Darlington,TLC13,Darlington
+E06000047,County Durham,TLC14,Durham
+E06000057,Northumberland,TLC21,Northumberland
+E08000024,Sunderland,TLC23,Sunderland
+E08000003,Manchester,TLD33,Manchester
+E06000008,Blackburn with Darwen,TLD41,Blackburn with Darwen
+E06000009,Blackpool,TLD42,Blackpool
+E06000007,Warrington,TLD61,Warrington
+E06000049,Cheshire East,TLD62,Cheshire East
+E06000050,Cheshire West and Chester,TLD63,Cheshire West and Chester
+E08000012,Liverpool,TLD72,Liverpool
+E08000014,Sefton,TLD73,Sefton
+E08000015,Wirral,TLD74,Wirral
+E06000010,"Kingston upon Hull, City of",TLE11,"Kingston upon Hull, City of"
+E06000011,East Riding of Yorkshire,TLE12,East Riding of Yorkshire
+E06000014,York,TLE21,York
+E06000042,Milton Keynes,TLJ12,Milton Keynes
+E06000060,Buckinghamshire,TLJ13,Buckinghamshire
+E06000043,Brighton and Hove,TLJ21,Brighton and Hove
+E06000044,Portsmouth,TLJ31,Portsmouth
+E06000045,Southampton,TLJ32,Southampton
+E06000046,Isle of Wight,TLJ34,Isle of Wight
+E06000035,Medway,TLJ41,Medway
+E06000055,Bedford,TLH24,Bedford
+E06000056,Central Bedfordshire,TLH25,Central Bedfordshire
+E06000033,Southend-on-Sea,TLH31,Southend-on-Sea
+E06000034,Thurrock,TLH32,Thurrock
+E09000033,Westminster,TLI32,Westminster
+E09000032,Wandsworth,TLI34,Wandsworth
+E09000030,Tower Hamlets,TLI42,Tower Hamlets
+E09000022,Lambeth,TLI45,Lambeth
+E09000010,Enfield,TLI54,Enfield
+E09000006,Bromley,TLI61,Bromley
+E09000008,Croydon,TLI62,Croydon
+E09000003,Barnet,TLI71,Barnet
+E09000005,Brent,TLI72,Brent
+E09000009,Ealing,TLI73,Ealing
+S12000013,Na h-Eileanan Siar,TLM64,Na h-Eileanan Siar
+S12000023,Orkney Islands,TLM65,Orkney Islands
+S12000027,Shetland Islands,TLM66,Shetland Islands
+S12000036,City of Edinburgh,TLM75,City of Edinburgh
+S12000014,Falkirk,TLM76,Falkirk
+S12000040,West Lothian,TLM78,West Lothian
+S12000049,Glasgow City,TLM82,Glasgow City
+S12000050,North Lanarkshire,TLM84,North Lanarkshire
+S12000026,Scottish Borders,TLM91,Scottish Borders
+S12000006,Dumfries and Galloway,TLM92,Dumfries and Galloway
+S12000008,East Ayrshire,TLM93,East Ayrshire and North Ayrshire mainland
+S12000028,South Ayrshire,TLM94,South Ayrshire
+S12000029,South Lanarkshire,TLM95,South Lanarkshire
+N09000003,Belfast,TLN06,Belfast
+N09000002,"Armagh City, Banbridge and Craigavon",TLN07,"Armagh City, Banbridge and Craigavon"
+N09000010,"Newry, Mourne and Down",TLN08,"Newry, Mourne and Down"
+N09000011,Ards and North Down,TLN09,Ards and North Down
+N09000005,Derry City and Strabane,TLN0A,Derry City and Strabane
+N09000009,Mid Ulster,TLN0B,Mid Ulster
+N09000004,Causeway Coast and Glens,TLN0C,Causeway Coast and Glens
+N09000001,Antrim and Newtownabbey,TLN0D,Antrim and Newtownabbey
+N09000007,Lisburn and Castlereagh,TLN0E,Lisburn and Castlereagh
+N09000008,Mid and East Antrim,TLN0F,Mid and East Antrim
+N09000006,Fermanagh and Omagh,TLN0G,Fermanagh and Omagh
+E06000023,"Bristol, City of",TLK11,"Bristol, City of"
+E06000030,Swindon,TLK14,Swindon
+E06000054,Wiltshire,TLK15,Wiltshire
+E06000058,"Bournemouth, Christchurch and Poole",TLK24,"Bournemouth, Christchurch and Poole"
+E06000059,Dorset,TLK25,Dorset
+E06000026,Plymouth,TLK41,Plymouth
+E06000027,Torbay,TLK42,Torbay
+W06000001,Isle of Anglesey,TLL11,Isle of Anglesey
+W06000002,Gwynedd,TLL12,Gwynedd
+W06000011,Swansea,TLL18,Swansea
+W06000023,Powys,TLL24,Powys
+E06000019,"Herefordshire, County of",TLG11,"Herefordshire, County of"
+E06000020,Telford and Wrekin,TLG21,Telford and Wrekin
+E06000051,Shropshire,TLG22,Shropshire
+E06000021,Stoke-on-Trent,TLG23,Stoke-on-Trent
+E08000025,Birmingham,TLG31,Birmingham
+E08000029,Solihull,TLG32,Solihull
+E08000026,Coventry,TLG33,Coventry
+E08000027,Dudley,TLG36,Dudley
+E08000028,Sandwell,TLG37,Sandwell
+E08000030,Walsall,TLG38,Walsall
+E08000031,Wolverhampton,TLG39,Wolverhampton
+E06000031,Peterborough,TLH11,Peterborough
+E06000032,Luton,TLH21,Luton
+E08000019,Sheffield,TLE32,Sheffield
+E08000032,Bradford,TLE41,Bradford
+E08000035,Leeds,TLE42,Leeds
+E08000036,Wakefield,TLE45,Wakefield
+E06000015,Derby,TLF11,Derby
+E06000018,Nottingham,TLF14,Nottingham
+E06000016,Leicester,TLF21,Leicester
